@@ -24,3 +24,4 @@ video-flirtify-com.cdn.ampproject.org
 xhamster.com
 amp-xhamster-com.cdn.ampproject.org
 gos-api.gos-gsp.io
+cl-data-id.ads.heytapmobi.com
