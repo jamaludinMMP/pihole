@@ -11,3 +11,4 @@ adminpajak.com
 sp.cwfservice.net
 lde110.mmp.net
 census-app.scorecardresearch.com
+firebaselogging-pa.googleapis.com.mmp.net
