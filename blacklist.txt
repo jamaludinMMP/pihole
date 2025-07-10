@@ -18,3 +18,4 @@ cdn-v6.amp-endpoint3.com
 ngx-v6.amp-endpoint2.com
 ssdk-sg.pangle.io
 config.ads.vungle.com
+api16-access-sg.pangle-b.io
