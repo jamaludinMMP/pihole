@@ -13,3 +13,4 @@ stats-collector.zprnnrkgtbfiiigm.net
 mbankmon.klikbca.com
 a.applvn.com
 cdn-v4.amp-endpoint3.com
+ngx-v4.amp-endpoint2.com
