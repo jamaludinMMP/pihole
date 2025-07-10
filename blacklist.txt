@@ -4,3 +4,4 @@ vz-cdn.contentabc.com
 hw-cdn.contentabc.com
 bi.phncdn.com
 media.trafficjunky.net
+hw-cdn.trafficjunky.net
