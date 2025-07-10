@@ -17,3 +17,4 @@ tracking.intl.miui.com
 storedl3f.nearme.com.cn
 i-n.sgsnssdk.com
 0-ic--vt--nss-xhcdn-com-0.cdn.ampproject.org
+static--ah-xhcdn-com.cdn.ampproject.org
