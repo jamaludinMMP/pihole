@@ -5,3 +5,4 @@ app-analytics-services.com
 supl.google.com
 mon.isnssdk.com
 i.sgsnssdk.com
+vc-brain.ndcpp-os.com
