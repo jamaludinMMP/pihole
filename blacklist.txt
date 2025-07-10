@@ -28,3 +28,4 @@ cl-data-id.ads.heytapmobi.com
 cdn1d-static-shared.phncdn.com
 bi.phncdn.com
 ei-ph.ypncdn.com.qtc.net
+cdn.engine.phn.doublepimp.com
