@@ -4,3 +4,4 @@ www.fuq.com
 app-analytics-services.com
 supl.google.com
 mon.isnssdk.com
+i.sgsnssdk.com
