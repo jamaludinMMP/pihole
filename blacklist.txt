@@ -46,3 +46,4 @@ www.bingapis.com
 api-h2.tiktokv.com.ttdns2.com
 v3.tiktokcdn.com.queniuaa.com
 mbanktrans.klikbca.com
+3xceuv-dynamic-report-api.appsflyersdk.com
