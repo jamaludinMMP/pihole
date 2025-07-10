@@ -35,3 +35,4 @@ ht.youporn.com
 p70-buy.itunes-apple.com.akadns.net
 static.trafficjunky.com
 xwwx67-inapps.appsflyersdk.com
+xwwx67-launches.appsflyersdk.com
