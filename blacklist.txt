@@ -33,3 +33,4 @@ cdn1-smallimg.phncdn.com
 ads2.contentabc.com
 ht.youporn.com
 p70-buy.itunes-apple.com.akadns.net
+static.trafficjunky.com
