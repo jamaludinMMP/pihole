@@ -2,3 +2,4 @@ xhamster.com
 static.xhpingcdn.com
 vz-cdn.contentabc.com
 hw-cdn.contentabc.com
+bi.phncdn.com
