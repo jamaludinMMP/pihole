@@ -44,3 +44,4 @@ li.protechts.net
 www.bingapis.com
 192.168.65.254resslist
 api-h2.tiktokv.com.ttdns2.com
+v3.tiktokcdn.com.queniuaa.com
