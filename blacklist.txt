@@ -25,3 +25,4 @@ xhamster.com
 amp-xhamster-com.cdn.ampproject.org
 gos-api.gos-gsp.io
 cl-data-id.ads.heytapmobi.com
+cdn1d-static-shared.phncdn.com
