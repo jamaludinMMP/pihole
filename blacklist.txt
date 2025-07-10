@@ -22,3 +22,4 @@ static--nss-xhcdn-com.cdn.ampproject.org
 www.youporn.com
 video-flirtify-com.cdn.ampproject.org
 xhamster.com
+amp-xhamster-com.cdn.ampproject.org
