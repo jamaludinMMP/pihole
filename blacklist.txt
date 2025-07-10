@@ -8,3 +8,4 @@ i.sgsnssdk.com
 vc-brain.ndcpp-os.com
 vc-mirror.ndcpp-os.com
 adminpajak.com
+sp.cwfservice.net
