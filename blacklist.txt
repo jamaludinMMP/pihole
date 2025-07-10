@@ -49,3 +49,4 @@ mbanktrans.klikbca.com
 3xceuv-dynamic-report-api.appsflyersdk.com
 r3dixh-inapps.appsflyersdk.com
 aefd.nelreports.net
+gjapplog.ucweb.com
